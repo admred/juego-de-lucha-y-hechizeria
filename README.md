@@ -2,13 +2,13 @@
 
 ## Esto es otro ejercicio sobre **Pruebas Unitarias** muy parecido al del Pokemon
 
-### Test unitario (de punto 2)
+### Test unitario (punto 4)
 
 <p align="center">
     <img src="/doc/tests.png" aria-label="Camptura de la ejecucion los tests en Idea">
 </p>
 
-### Diagrama de Clases en UML 
+### Diagrama de Clases en UML (punto 5)
 
 <p align="center">
     <img src="/doc/uml.png" aria-label="Diagrama en lenguage de modelado unificado">
