@@ -20,6 +20,8 @@ public class Guerrero {
 
     public int getNivelTotalDeLucha() {
 
+        if(this.artefactos.size() == 0) return 0;
+
         return artefactos.stream()
                 .map(Artefacto::getNivelDeLucha)
                 .reduce(Integer::sum)
